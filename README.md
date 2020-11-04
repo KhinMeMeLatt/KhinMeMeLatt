@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github.com/KhinMeMeLatt/KhinMeMeLatt/blob/main/Hello-Gif.gif)
 
 <!--
